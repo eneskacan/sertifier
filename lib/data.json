@@ -1,0 +1,82 @@
+{
+    "user": {
+        "id": 1,
+        "name": "Jane Doe"
+    },
+    "upperFeed": [
+        {
+            "id": 1,
+            "type": "Article",
+            "link": "https://blog.sertifier.com",
+            "imgUrl": "https://blog.sertifier.com/wp-content/uploads/2020/06/How-Can-Educators-Be-Successful-In-E-learning-1024x576.png",
+            "title": "How Can I Be Successful in E-learning?",
+            "readTimeMinutes": 3,
+            "text": "Laboris esse id laborum sunt ullamco labore ipsum ipsum non ea. Nostrud aliqua officia labore tempor incididunt ut pariatur consectetur aute anim ullamco Lorem. Anim ipsum deserunt quis labore mollit Lorem et pariatur. Voluptate duis nisi est est consequat. Proident elit magna irure quis ea nostrud mollit est incididunt. Ad aliqua laborum consectetur in qui magna aliqua mollit aliqua adipisicing. Sit laboris cupidatat commodo ut. Dolor excepteur enim sint ad aliqua do magna voluptate sint sunt. Labore minim esse Lorem ea qui cillum minim magna commodo. Elit voluptate id exercitation ut pariatur dolor occaecat proident velit fugiat enim labore commodo."
+        },
+        {
+            "id": 2,
+            "type": "Article",
+            "link": "https://blog.sertifier.com",
+            "imgUrl": "https://blog.sertifier.com/wp-content/uploads/2020/06/ataberk-course-participation-blog-1024x576.png",
+            "title": "Increase the Number of Participants for Your Online Course with These 4 Easy Steps",
+            "readTimeMinutes": 5,
+            "text": "Laboris esse id laborum sunt ullamco labore ipsum ipsum non ea. Nostrud aliqua officia labore tempor incididunt ut pariatur consectetur aute anim ullamco Lorem. Anim ipsum deserunt quis labore mollit Lorem et pariatur. Voluptate duis nisi est est consequat. Proident elit magna irure quis ea nostrud mollit est incididunt. Ad aliqua laborum consectetur in qui magna aliqua mollit aliqua adipisicing. Sit laboris cupidatat commodo ut. Dolor excepteur enim sint ad aliqua do magna voluptate sint sunt. Labore minim esse Lorem ea qui cillum minim magna commodo. Elit voluptate id exercitation ut pariatur dolor occaecat proident velit fugiat enim labore commodo. Fugiat Lorem eu in mollit. Commodo ipsum cupidatat id est. Occaecat ipsum do velit quis reprehenderit. Nisi culpa veniam dolor excepteur veniam minim tempor ullamco officia deserunt veniam. Occaecat ipsum minim mollit magna proident proident mollit non ex ipsum non elit culpa."
+        },
+        {
+            "id": 3,
+            "type": "Article",
+            "link": "https://blog.sertifier.com",
+            "imgUrl": "https://blog.sertifier.com/wp-content/uploads/2020/06/webinar-eng-1024x576.png",
+            "title": "4 Steps to a Flawless Webinar",
+            "readTimeMinutes": 4,
+            "text": "Laboris esse id laborum sunt ullamco labore ipsum ipsum non ea. Nostrud aliqua officia labore tempor incididunt ut pariatur consectetur aute anim ullamco Lorem. Anim ipsum deserunt quis labore mollit Lorem et pariatur. Voluptate duis nisi est est consequat. Proident elit magna irure quis ea nostrud mollit est incididunt. Ad aliqua laborum consectetur in qui magna aliqua mollit aliqua adipisicing. Sit laboris cupidatat commodo ut. Dolor excepteur enim sint ad aliqua do magna voluptate sint sunt. Labore minim esse Lorem ea qui cillum minim magna commodo. Elit voluptate id exercitation ut pariatur dolor occaecat proident velit fugiat enim labore commodo."
+        },
+        {
+            "id": 4,
+            "type": "Article",
+            "link": "https://blog.sertifier.com",
+            "imgUrl": "https://blog.sertifier.com/wp-content/uploads/2020/06/HowtoPromote-digital-marketing-1024x576.png",
+            "title": "Using Digital Marketing Tools To Promote Your E-Learning Business",
+            "readTimeMinutes": 6,
+            "text": "Laboris esse id laborum sunt ullamco labore ipsum ipsum non ea. Nostrud aliqua officia labore tempor incididunt ut pariatur consectetur aute anim ullamco Lorem. Anim ipsum deserunt quis labore mollit Lorem et pariatur. Voluptate duis nisi est est consequat. Proident elit magna irure quis ea nostrud mollit est incididunt. Ad aliqua laborum consectetur in qui magna aliqua mollit aliqua adipisicing. Sit laboris cupidatat commodo ut. Dolor excepteur enim sint ad aliqua do magna voluptate sint sunt. Labore minim esse Lorem ea qui cillum minim magna commodo. Elit voluptate id exercitation ut pariatur dolor occaecat proident velit fugiat enim labore commodo. Cupidatat cupidatat est duis eu ex non excepteur. Dolor ut ullamco consequat commodo aliqua minim pariatur nisi. Ad amet ipsum consequat veniam sunt fugiat ad sint. Sit aliquip qui eu sunt proident proident duis consequat laboris consectetur dolore labore eiusmod."
+        },
+        {
+            "id": 5,
+            "type": "Article",
+            "link": "https://blog.sertifier.com",
+            "imgUrl": "https://blog.sertifier.com/wp-content/uploads/2020/05/CanlıEgitimEn-1024x576.png",
+            "title": "What To Do During Online Education?",
+            "readTimeMinutes": 3,
+            "text": "Laboris esse id laborum sunt ullamco labore ipsum ipsum non ea. Nostrud aliqua officia labore tempor incididunt ut pariatur consectetur aute anim ullamco Lorem. Anim ipsum deserunt quis labore mollit Lorem et pariatur. Voluptate duis nisi est est consequat. Proident elit magna irure quis ea nostrud mollit est incididunt. Ad aliqua laborum consectetur in qui magna aliqua mollit aliqua adipisicing. Sit laboris cupidatat commodo ut. Dolor excepteur enim sint ad aliqua do magna voluptate sint sunt. Labore minim esse Lorem ea qui cillum minim magna commodo. Elit voluptate id exercitation ut pariatur dolor occaecat proident velit fugiat enim labore commodo."
+        }
+    ],
+    "myList": [
+        {
+            "id": 6,
+            "type": "Article",
+            "link": "https://blog.sertifier.com",
+            "imgUrl": "https://blog.sertifier.com/wp-content/uploads/2020/04/Covid19Elearning-1024x576.png",
+            "title": "CoViD-19 and E-learning",
+            "readTimeMinutes": 6,
+            "text": "Laboris esse id laborum sunt ullamco labore ipsum ipsum non ea. Nostrud aliqua officia labore tempor incididunt ut pariatur consectetur aute anim ullamco Lorem. Anim ipsum deserunt quis labore mollit Lorem et pariatur. Voluptate duis nisi est est consequat. Proident elit magna irure quis ea nostrud mollit est incididunt. Ad aliqua laborum consectetur in qui magna aliqua mollit aliqua adipisicing. Sit laboris cupidatat commodo ut. Dolor excepteur enim sint ad aliqua do magna voluptate sint sunt. Labore minim esse Lorem ea qui cillum minim magna commodo. Elit voluptate id exercitation ut pariatur dolor occaecat proident velit fugiat enim labore commodo. Esse sint cupidatat occaecat veniam. Voluptate laboris adipisicing amet reprehenderit aliquip culpa incididunt. Non in in ipsum aute sint irure ut magna fugiat commodo laborum pariatur incididunt. Veniam ipsum Lorem ad amet sint mollit non mollit. Ipsum magna do irure qui. Non velit officia cupidatat adipisicing irure aliquip elit tempor incididunt dolor. Sit dolor sunt reprehenderit do ea excepteur pariatur in sint eiusmod commodo exercitation occaecat quis. Laborum elit id aliquip ut voluptate ad in deserunt. Nisi non consequat reprehenderit exercitation dolor anim incididunt consectetur nostrud aute laborum minim ut. Nostrud ex deserunt voluptate magna minim aliqua sunt amet aute duis aliquip ullamco culpa id. In excepteur ullamco cupidatat ipsum nulla consectetur sunt do culpa et fugiat. Eiusmod do enim cupidatat in minim nostrud anim ex eu. Elit laboris pariatur fugiat occaecat eu. Voluptate occaecat quis aute nisi non qui duis nulla mollit Lorem id."
+        },
+        {
+            "id": 7,
+            "type": "Article",
+            "link": "https://blog.sertifier.com",
+            "imgUrl": "https://blog.sertifier.com/wp-content/uploads/2020/04/FutureJobs-1024x576.png",
+            "title": "Future of Jobs",
+            "readTimeMinutes": 3,
+            "text": "Laboris esse id laborum sunt ullamco labore ipsum ipsum non ea. Nostrud aliqua officia labore tempor incididunt ut pariatur consectetur aute anim ullamco Lorem. Anim ipsum deserunt quis labore mollit Lorem et pariatur. Voluptate duis nisi est est consequat. Proident elit magna irure quis ea nostrud mollit est incididunt. Ad aliqua laborum consectetur in qui magna aliqua mollit aliqua adipisicing. Sit laboris cupidatat commodo ut. Dolor excepteur enim sint ad aliqua do magna voluptate sint sunt. Labore minim esse Lorem ea qui cillum minim magna commodo. Elit voluptate id exercitation ut pariatur dolor occaecat proident velit fugiat enim labore commodo."
+        },
+        {
+            "id": 8,
+            "type": "Article",
+            "link": "https://blog.sertifier.com",
+            "imgUrl": "https://blog.sertifier.com/wp-content/uploads/2020/04/TrendingEdTech-1024x576.png",
+            "title": "Trending Education Technologies",
+            "readTimeMinutes": 2,
+            "text": "Laboris esse id laborum sunt ullamco labore ipsum ipsum non ea. Nostrud aliqua officia labore tempor incididunt ut pariatur consectetur aute anim ullamco Lorem. Anim ipsum deserunt quis labore mollit Lorem et pariatur. Voluptate duis nisi est est consequat. Proident elit magna irure quis ea nostrud mollit est incididunt. Ad aliqua laborum consectetur in qui magna aliqua mollit aliqua adipisicing. Sit laboris cupidatat commodo ut. Dolor excepteur enim sint ad aliqua do magna voluptate sint sunt. Labore minim esse Lorem ea qui cillum minim magna commodo. Elit voluptate id exercitation ut pariatur dolor occaecat proident velit fugiat enim labore commodo."
+        }
+    ]
+}
